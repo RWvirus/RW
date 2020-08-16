@@ -1,0 +1,30 @@
+تغيير ثيم التيرمكس ووضع ثيم الجمجه و٢ ثيم اخرين 
+🤺🤺🤺🤺🤺🤺🤺
+قناتى على اليتيوب 
+https://www.youtube.com/channel/UCL7Vzt04Ho_DKK1j7aWspxw
+🤺🤺🤺🤺🤺🤺🤺
+
+pkg update upgrade
+
+ pkg install git
+
+
+ git clone https://github.com/Amerlaceset/Amer
+
+ cd Amer
+
+ chmod +x *
+
+
+ ./Amer.sh
+
+ ls 
+
+cd Virus4 
+
+
+python2 Virus4.py
+
+
+
+ ٢٥‏/٠٤‏/٢٠٢٠ ٤:٣٤:٠٦ م 
